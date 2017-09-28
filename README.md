@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+```
+npm run server
+```
+
 ## Build Setup
 
 ``` bash
